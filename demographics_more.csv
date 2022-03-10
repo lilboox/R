@@ -1,0 +1,5 @@
+patient_code,Age,Sex,Height,Weight,BMI,Sequence
+CLOP-C004,23,F,163,52.1,19.6,R-R-T
+CLOP-C006,24,M,163,51.9,19.5,R-T-R
+CLOP-C008,25,M,163,56.1,21.1,R-T-R
+CLOP-C012,25,M,167,62.9,22.6,R-R-T
